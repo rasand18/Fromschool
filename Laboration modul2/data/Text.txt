@@ -1,0 +1,8 @@
+Alexis,2105
+Fredrik,96481
+Rasmus,18978
+Susan,2791
+Tomas,34244
+Tony,15049	
+Ville,3639
+Wille,2313

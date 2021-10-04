@@ -1,0 +1,21 @@
+
+
+cd ~ /git/data_engineering/bash_exercises/
+
+find "DSC*"
+
+export favoritemovie="HAJEN"
+
+printenv favoritemovie HAJEN
+
+git branches 
+
+git push 
+
+7. Write a bash script that
+
+echo "The current time in UTC is:" `date -u` "and the actual time is:" `date +"%T"`
+
+
+
+
